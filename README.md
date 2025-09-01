@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Marcus  👋
 
-<!--
-**MarcSpencer33/MarcSpencer33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am Currently taking CSC-134 and getting ready to learn C++! I also love to read manga and watch anime.
 
-Here are some ideas to get you started:
+## My Foo  🎯
+I love gaming and lifting weights. It allows me to always stay busy.
+## Currently Learning
+- C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fun Fact
+I can speak a little bit of French.
+
+## Find Me
+- 📫 Right here on GitHub!
